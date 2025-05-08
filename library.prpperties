@@ -1,0 +1,9 @@
+name=Caggy Rotary Encoder
+version=1.0.0
+author=Martin Evans (adapted code from github.com/buxtronix/arduino/tree/master/libraries/Rotary)
+maintainer=Martin Evans <martin@caggy.co.uk>
+sentence=Easy implement rotary encoder to your application Raspberry Pi Pico
+paragraph=Easy to use rotary encoder code originally by Ben Buxton, examples adapted to work with Raspberry Pi Pico
+category=Device Control
+url=https://github.com/lostcaggy/rotary_caggy
+architectures=rpi pico
