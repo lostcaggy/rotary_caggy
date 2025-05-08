@@ -1,4 +1,10 @@
-Rotary encoder handler for arduino. v1.1
+Original code by Ben Buxton.
+
+Adapted examples to work with Raspberry Pi Pico by Martin Evans
+martin@caggy.co.uk
+Copyright 2025 Martin Evans Licenced under the GNU GPL Version 3.
+
+Rotary encoder handler for Raspberry Pi Pico 
 
 Copyright 2011 Ben Buxton. Licenced under the GNU GPL Version 3.
 Contact: bb@cactii.net
